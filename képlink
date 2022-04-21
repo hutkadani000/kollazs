@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>KÉPLINK</title>
+</head>
+<body>
+    
+<h1 style="color:blueviolet;">Hutka Dániel</h1>
+<p style="color:green;">Képlink feladat:</p>
+
+<a href="https://www.origo.hu/techbazis/20140807-lopott-a-majom-amikor-szelfizett.html" target="blank"><img src="https://cdn.nwmgroups.hu/s/img/i/1408/20140807foto-szelfie-makako-majom-fenykep.jpg" alt="majom"
+title="majom" width="250"></a>
+
+</body>
+</html>
