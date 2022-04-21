@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Saját oldalam</title>
+  </head>
+  <body style="background-color:seashell">
+	  <p>Most már színesben pompázik az oldal... </p>
+    <h1 style="color: olive;">Hutka Dániel</h1>
+    <h2 style="color: lime;">Hutka Dániel</h2>
+    <h3 style="color:mediumorchid">Hutka Dániel</h3>
+    <h4 style="color: mediumslateblue;">Hutka Dániel</h4>
+    <h5 style="color: mediumturquoise;">Hutka Dániel</h5>
+    <h6 style="color: mediumvioletred;">Hutka Dániel</h6>
+    <p>	  
+   </body>
+</html>
